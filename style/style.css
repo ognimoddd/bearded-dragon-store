@@ -1,0 +1,106 @@
+body,td,th {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	font-size: 14px;
+
+	color: #333;
+
+	line-height:1.5em;
+
+}
+
+body {
+
+	background-color:#00FF00 ; /* chnage background to red u can chnage later just to show u */  
+
+}
+
+
+#button{
+
+    width:100px; 
+    height: 30px; 
+    position:relative;
+    background:yellow;
+    border-radius:10px;
+
+}
+
+a {
+
+	width:100px; 
+	height: 20px;
+
+	font-size: 14px;
+
+	color: #03F;
+
+}
+
+a:link {
+
+	text-decoration: none;
+
+}
+
+a:visited {
+
+	text-decoration: none;
+
+	color: #03F;
+
+}
+
+a:hover {
+
+	text-decoration: none;
+
+	color: red;
+
+}
+
+a:active {
+
+	text-decoration: none;
+
+	color: #03F;
+
+}
+
+#pageHeader {
+
+	border:#999 1px solid;
+
+	border-bottom:none;
+
+	background-color:#000;  /* header color black */
+
+	width:95%;
+
+	
+}
+
+#pageContent {
+
+	border:#999 1px solid;
+
+	border-bottom:none;
+
+	background-color:#FFFFFF;
+
+	width:95%;
+
+
+}
+
+#pageFooter {
+
+	border:#999 0px solid;
+
+	background-color:#808080;  /* <--Footer gray here */
+
+	width:95%;
+	height:300px;
+	
+}
