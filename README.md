@@ -50,8 +50,11 @@ From here, the user can navigate to several different sections of the website:
 ### Contact Us
 <img width="1280" alt="GuzmanDomingoPHP contactus" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/d0dd252b-c7d7-4be3-9170-bb6b322d7ce0">
          
-### Manager Login
+### Manager Screen
 <img width="1280" alt="GuzmanDomingoPHP managerlogin" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/ca6c5f0d-3aaf-4e89-805b-2b88e19141d8">
+         
+### Manager Screen - Adding Inventory
+<img width="1280" alt="GuzmanDomingoPHP manageradditem" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/8de24df0-fa79-4fa4-a4ee-1b68d83706a7">
          
          
 ## Contributions
