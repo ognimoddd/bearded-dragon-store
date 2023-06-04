@@ -5,7 +5,7 @@
 <li><b> Introduction </b></li>
 <li><b> Installation guide </b> </li>
 <li><b> Features </b></li>
-<li><b> Contributing </b></li>
+<li><b> Contributions </b></li>
 
 ## Introduction
 Domingo's Bearded Dragon store is an e-commerce website where users can purchase exotic reptiles and supplies. It was developed using PHP, SQL, HTML, CSS, and Javascript.
@@ -52,3 +52,8 @@ From here, the user can navigate to several different sections of the website:
          
 ### Manager Login
 <img width="1280" alt="GuzmanDomingoPHP managerlogin" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/ca6c5f0d-3aaf-4e89-805b-2b88e19141d8">
+         
+         
+## Contributions
+
+Domingo's Bearded Dragon Store is an open-source project. I am committed to a fully transparent development process and would greatly appreciate any contributions. Whether you are helping to fix bugs, proposing new features, or improving documentation - I would love to have your contribution and/or feedback. Thank you for checking out my repository!
