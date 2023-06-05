@@ -33,13 +33,13 @@ Now that the application is running, the user will be greeted with a log in menu
 <img width="1280" alt="GuzmanDomingoPHP homepage" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/c94bad12-b3ed-477d-b1f2-cfe39e5c1981">
          
 From here, the user can navigate to several different sections of the website:
-1. Home - Goes back to the home page
-2. Logout - Sign out and go back to the login screen
-3. Products - Lists every item available for purchase in the store
-4. Contacts Us - Lists points of contact when users need help, as well as a FAQ
-5. OrderNow - Shopping cart where the user can see his/her cart and checkout
-6. ManagerLogin - Part of the website where the manager can sign in. From there the manager can add, delete, and update items <br>
-   ** To sign in as the manager, the username is "Domingo" and the password is "password" **
+         <li> Home - Goes back to the home page </li>
+         <li> Logout - Sign out and go back to the login screen </li>
+         <li> Products - Lists every item available for purchase in the store </li>
+         <li> Contacts Us - Lists points of contact when users need help, as well as a FAQ </li>
+         <li> OrderNow - Shopping cart where the user can see his/her cart and checkout </li>
+<li> ManagerLogin - Part of the website where the manager can sign in. From there the manager can add, delete, and update items</li>
+     &nbsp;&nbsp;&nbsp;&nbsp;** To sign in as the manager, the username is "Domingo" and the password is "password" **
  
 ### Product List         
 <img width="1280" alt="GuzmanDomingoPHP products1" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/03545ba6-378f-4685-97d0-ca7ecfac10e7">
