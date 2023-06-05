@@ -38,7 +38,8 @@ From here, the user can navigate to several different sections of the website:
 3. Products - Lists every item available for purchase in the store
 4. Contacts Us - Lists points of contact when users need help, as well as a FAQ
 5. OrderNow - Shopping cart where the user can see his/her cart and checkout
-6. ManagerLogin - Part of the website where the manager can sign in. From there the manager can add, delete, and update items
+6. ManagerLogin - Part of the website where the manager can sign in. From there the manager can add, delete, and update items <br>
+   ** To sign in as the manager, the username is "Domingo" and the password is "password" **
  
 ### Product List         
 <img width="1280" alt="GuzmanDomingoPHP products1" src="https://github.com/ognimoddd/bearded-dragon-store/assets/77591203/03545ba6-378f-4685-97d0-ca7ecfac10e7">
