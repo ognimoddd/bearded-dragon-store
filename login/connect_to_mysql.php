@@ -25,7 +25,7 @@ $db_pass = "";
 
 // Place the name for the MySQL database here 
 
-$db_name = "phonestore"; 
+$db_name = "beardeddragonstore"; 
 
 
 // Run the actual connection here  
